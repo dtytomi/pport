@@ -1,0 +1,43 @@
+.content {
+	margin-top: 50px;
+}
+
+.navbar-toggle {
+  background-color: rgba(157, 125, 212, 0.42);
+}
+
+.background {
+  background: url('/modules/core/img/homepage/pashport-city.jpg') no-repeat center bottom fixed;
+  background-size: cover;
+  min-height: 609px;
+  position: relative;
+}
+
+.undecorated-link:hover {
+	text-decoration: none;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+
+.section {
+  margin-top: 80px;
+}
+
+.nav-barcolor {
+  background-color: #330066; 
+  border-color: #2E005C;
+}
+
+/*.passion {
+  margin-top: 80px;
+  padding-top: 20px
+}
+*/
+.scroller {
+    white-space: normal;
+    height: 500px;
+    overflow-y: hidden;
+    position: relative;
+}
